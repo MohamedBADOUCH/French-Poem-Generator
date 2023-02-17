@@ -20,5 +20,11 @@ This model is not perfect but still manages to write coherent sentences, especia
 
 The notebook in this repo shows the model and the training process that was used.
 
+---
 
+## Contributors
+
+- Valentin DAAB : [@valentin-daab](https://github.com/valentin-daab)
+- Mohamed BADOUCH : [@MohamedBADOUCH](https://github.com/MohamedBADOUCH)
+- Osman GULLU : [@croco13](https://github.com/croco13)
 
